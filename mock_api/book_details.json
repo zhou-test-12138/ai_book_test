@@ -1,0 +1,247 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": "demo_1",
+      "title": "Eat That Frog!",
+      "author": "Brian Tracy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
+      "aboutAuthor": "Brian Tracy is a Canadian-American motivational public speaker and self-development author. He has written more than eighty books that have been translated into dozens of languages.",
+      "whatsInside": "Get ready to change the way you view self-promotion. Master a content strategy that will help you get noticed and grow.",
+      "learns": [
+        "New ways to present your art to others",
+        "What to post to never run out of ideas",
+        "About the importance of being authentic",
+        "How to self-promote if you hate self-promotion"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Make a name for yourself with a consistent online presence", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+        { "id": "2", "title": "You don't have to be a prodigy to progress", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+        { "id": "3", "title": "Share your process, not just the final product", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+        { "id": "4", "title": "Be consistent and build a loyal audience", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }
+      ],
+      "stat": { "keyPoints": 12, "minutes": 16, "insights": 8 }
+    },
+    {
+      "id": "demo_2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10521270-L.jpg",
+      "aboutAuthor": "James Clear is an author and speaker focused on habits, decision-making, and continuous improvement.",
+      "whatsInside": "Tiny changes, remarkable results. An easy and proven way to build good habits and break bad ones.",
+      "learns": [
+        "The surprising power of tiny habits",
+        "How to design your environment for success",
+        "The role of identity in habit formation",
+        "How to break bad habits for good"
+      ],
+      "chapters": [
+        { "id": "1", "title": "The Surprising Power of Atomic Habits", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+        { "id": "2", "title": "How Habits Shape Your Identity", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+        { "id": "3", "title": "How to Build Better Habits in 4 Simple Steps", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }
+      ],
+      "stat": { "keyPoints": 10, "minutes": 18, "insights": 9 }
+    },
+    {
+      "id": "demo_3",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9270585-L.jpg",
+      "aboutAuthor": "Marcus Aurelius was Roman emperor from 161 to 180 AD and a Stoic philosopher.",
+      "whatsInside": "Personal writings of the Roman Emperor Marcus Aurelius, giving deep insights into Stoic philosophy.",
+      "learns": [
+        "Stoic principles for modern life",
+        "How to remain calm under pressure",
+        "The importance of virtue over wealth",
+        "Living in accordance with nature"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Book I: Debts and Lessons", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+        { "id": "2", "title": "Book II: On the River Gran", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+        { "id": "3", "title": "Book III: In Carnuntum", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }
+      ],
+      "stat": { "keyPoints": 8, "minutes": 12, "insights": 7 }
+    },
+    {
+      "id": "demo_4",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739236-L.jpg",
+      "aboutAuthor": "Stephen R. Covey was an American educator, author, businessman, and keynote speaker.",
+      "whatsInside": "Powerful lessons in personal change based on timeless principles of human effectiveness.",
+      "learns": [
+        "Be proactive, not reactive",
+        "Begin with the end in mind",
+        "Put first things first",
+        "Think win-win in all interactions"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Be Proactive", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+        { "id": "2", "title": "Begin with the End in Mind", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+        { "id": "3", "title": "Think Win-Win", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }
+      ],
+      "stat": { "keyPoints": 14, "minutes": 20, "insights": 10 }
+    },
+    {
+      "id": "demo_5",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8406786-L.jpg",
+      "aboutAuthor": "Eckhart Tolle is a spiritual teacher and bestselling author born in Germany.",
+      "whatsInside": "A guide to spiritual enlightenment that emphasizes the importance of living in the present moment.",
+      "learns": [
+        "How to free yourself from the past",
+        "The power of conscious presence",
+        "Overcoming the pain-body",
+        "Finding inner peace through stillness"
+      ],
+      "chapters": [
+        { "id": "1", "title": "You Are Not Your Mind", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+        { "id": "2", "title": "Consciousness: The Way Out of Pain", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+        { "id": "3", "title": "Moving Deeply into the Now", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }
+      ],
+      "stat": { "keyPoints": 9, "minutes": 14, "insights": 8 }
+    },
+    {
+      "id": "demo_6",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7898938-L.jpg",
+      "aboutAuthor": "Napoleon Hill was an American self-help author, best known for Think and Grow Rich.",
+      "whatsInside": "The classic guide to wealth and personal achievement based on interviews with over 500 successful Americans.",
+      "learns": [
+        "The role of desire in achieving success",
+        "How faith amplifies your power",
+        "The mastermind principle",
+        "Overcoming the six basic fears"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Thoughts Are Things", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+        { "id": "2", "title": "Desire: The Starting Point of All Achievement", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+        { "id": "3", "title": "Faith: Visualization of Belief", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }
+      ],
+      "stat": { "keyPoints": 13, "minutes": 19, "insights": 11 }
+    },
+    {
+      "id": "demo_7",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9279482-L.jpg",
+      "aboutAuthor": "Cal Newport is a computer science professor at Georgetown University and bestselling author.",
+      "whatsInside": "Rules for focused success in a distracted world. How to develop and leverage deep work to thrive.",
+      "learns": [
+        "Why deep work is rare and valuable",
+        "How to train your brain to focus",
+        "Strategies for deep work scheduling",
+        "Quitting social media to reclaim focus"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Deep Work Is Valuable", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+        { "id": "2", "title": "Deep Work Is Rare", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+        { "id": "3", "title": "Work Deeply", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }
+      ],
+      "stat": { "keyPoints": 11, "minutes": 17, "insights": 9 }
+    },
+    {
+      "id": "demo_8",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231689-L.jpg",
+      "aboutAuthor": "Viktor Frankl was an Austrian neurologist, psychiatrist, philosopher, and Holocaust survivor.",
+      "whatsInside": "A powerful account of life in Nazi concentration camps and a lesson about finding meaning in suffering.",
+      "learns": [
+        "Finding meaning even in the worst suffering",
+        "Logotherapy as a path to healing",
+        "The last of human freedoms: choosing your attitude",
+        "Love as the highest goal"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Experiences in a Concentration Camp", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+        { "id": "2", "title": "Logotherapy in a Nutshell", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+        { "id": "3", "title": "The Case for a Tragic Optimism", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }
+      ],
+      "stat": { "keyPoints": 8, "minutes": 13, "insights": 7 }
+    },
+    {
+      "id": "demo_9",
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739196-L.jpg",
+      "aboutAuthor": "Dale Carnegie was an American writer and lecturer, and the developer of famous courses in self-improvement.",
+      "whatsInside": "Timeless advice on building meaningful relationships and becoming a more influential communicator.",
+      "learns": [
+        "Fundamental techniques in handling people",
+        "How to make people like you immediately",
+        "How to win people to your way of thinking",
+        "How to change people without giving offense"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Don't Criticize, Condemn or Complain", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+        { "id": "2", "title": "Give Honest Appreciation", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+        { "id": "3", "title": "Arouse in the Other Person an Eager Want", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }
+      ],
+      "stat": { "keyPoints": 12, "minutes": 18, "insights": 10 }
+    },
+    {
+      "id": "demo_10",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8434956-L.jpg",
+      "aboutAuthor": "Eric Ries is an entrepreneur and author, known for pioneering the Lean Startup methodology.",
+      "whatsInside": "How today's entrepreneurs use continuous innovation to create radically successful businesses.",
+      "learns": [
+        "The build-measure-learn feedback loop",
+        "What is a minimum viable product",
+        "How to pivot or persevere",
+        "The five whys for root cause analysis"
+      ],
+      "chapters": [
+        { "id": "1", "title": "Start", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+        { "id": "2", "title": "Define", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+        { "id": "3", "title": "Learn", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }
+      ],
+      "stat": { "keyPoints": 10, "minutes": 16, "insights": 8 }
+    },
+    {
+      "id": "demo_11",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8571124-L.jpg",
+      "aboutAuthor": "Yuval Noah Harari is an Israeli historian and professor at the Hebrew University of Jerusalem.",
+      "whatsInside": "A brief history of humankind, exploring how Homo sapiens came to dominate planet Earth.",
+      "learns": [
+        "The cognitive revolution that changed everything",
+        "How agriculture transformed human society",
+        "The unification of humankind",
+        "The scientific revolution and its consequences"
+      ],
+      "chapters": [
+        { "id": "1", "title": "An Animal of No Significance", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+        { "id": "2", "title": "The Tree of Knowledge", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+        { "id": "3", "title": "A Day in the Life of Adam and Eve", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }
+      ],
+      "stat": { "keyPoints": 15, "minutes": 22, "insights": 12 }
+    },
+    {
+      "id": "demo_12",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9283566-L.jpg",
+      "aboutAuthor": "Peter Thiel is an American entrepreneur and venture capitalist, co-founder of PayPal.",
+      "whatsInside": "Notes on startups, or how to build the future. Every moment in business happens only once.",
+      "learns": [
+        "Why competition destroys profits",
+        "The power of monopoly in startups",
+        "How to build a company with a strong foundation",
+        "The importance of sales alongside product"
+      ],
+      "chapters": [
+        { "id": "1", "title": "The Challenge of the Future", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+        { "id": "2", "title": "Party Like It's 1999", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+        { "id": "3", "title": "All Happy Companies Are Different", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }
+      ],
+      "stat": { "keyPoints": 11, "minutes": 15, "insights": 9 }
+    }
+  ]
+}

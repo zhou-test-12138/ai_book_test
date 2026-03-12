@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": "demo_1",
+      "title": "Eat That Frog!",
+      "author": "Brian Tracy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
+      "stat": { "keyPoints": 12, "minutes": 16, "insights": 8 }
+    },
+    {
+      "id": "demo_2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10521270-L.jpg",
+      "stat": { "keyPoints": 10, "minutes": 18, "insights": 9 }
+    },
+    {
+      "id": "demo_3",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9270585-L.jpg",
+      "stat": { "keyPoints": 8, "minutes": 12, "insights": 7 }
+    },
+    {
+      "id": "demo_4",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739236-L.jpg",
+      "stat": { "keyPoints": 14, "minutes": 20, "insights": 10 }
+    },
+    {
+      "id": "demo_5",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8406786-L.jpg",
+      "stat": { "keyPoints": 9, "minutes": 14, "insights": 8 }
+    },
+    {
+      "id": "demo_6",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7898938-L.jpg",
+      "stat": { "keyPoints": 13, "minutes": 19, "insights": 11 }
+    },
+    {
+      "id": "demo_7",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9279482-L.jpg",
+      "stat": { "keyPoints": 11, "minutes": 17, "insights": 9 }
+    },
+    {
+      "id": "demo_8",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231689-L.jpg",
+      "stat": { "keyPoints": 8, "minutes": 13, "insights": 7 }
+    },
+    {
+      "id": "demo_9",
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739196-L.jpg",
+      "stat": { "keyPoints": 12, "minutes": 18, "insights": 10 }
+    },
+    {
+      "id": "demo_10",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8434956-L.jpg",
+      "stat": { "keyPoints": 10, "minutes": 16, "insights": 8 }
+    },
+    {
+      "id": "demo_11",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8571124-L.jpg",
+      "stat": { "keyPoints": 15, "minutes": 22, "insights": 12 }
+    },
+    {
+      "id": "demo_12",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9283566-L.jpg",
+      "stat": { "keyPoints": 11, "minutes": 15, "insights": 9 }
+    }
+  ]
+}
