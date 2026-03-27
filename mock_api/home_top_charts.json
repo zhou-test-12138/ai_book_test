@@ -1,0 +1,126 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "chartId": "chart_1",
+      "chartName": "Top Productivity",
+      "bookList": [
+        {
+          "id": "demo_1_c1174f",
+          "title": "Eat That Frog!_c1174f",
+          "author": "Brian Tracy_c1174f",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739164-L.jpg"
+        },
+        {
+          "id": "demo_2_872e42",
+          "title": "Atomic Habits_872e42",
+          "author": "James Clear_872e42",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739169-L.jpg"
+        },
+        {
+          "id": "demo_3_c39341",
+          "title": "Deep Work_c39341",
+          "author": "Cal Newport_c39341",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739174-L.jpg"
+        },
+        {
+          "id": "demo_4_594977",
+          "title": "The 7 Habits of Highly Effective People_594977",
+          "author": "Stephen R. Covey_594977",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739179-L.jpg"
+        }
+      ]
+    },
+    {
+      "chartId": "chart_2",
+      "chartName": "Mindfulness Picks",
+      "bookList": [
+        {
+          "id": "demo_5_b46435",
+          "title": "The Power of Now_b46435",
+          "author": "Eckhart Tolle_b46435",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739184-L.jpg"
+        },
+        {
+          "id": "demo_6_4d0065",
+          "title": "Meditations_4d0065",
+          "author": "Marcus Aurelius_4d0065",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739189-L.jpg"
+        },
+        {
+          "id": "demo_7_ff4259",
+          "title": "Man's Search for Meaning_ff4259",
+          "author": "Viktor E. Frankl_ff4259",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739194-L.jpg"
+        },
+        {
+          "id": "demo_8_94ce8e",
+          "title": "Think and Grow Rich_94ce8e",
+          "author": "Napoleon Hill_94ce8e",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739199-L.jpg"
+        }
+      ]
+    },
+    {
+      "chartId": "chart_3",
+      "chartName": "Startup & Business",
+      "bookList": [
+        {
+          "id": "demo_9_7a3143",
+          "title": "The Lean Startup_7a3143",
+          "author": "Eric Ries_7a3143",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739204-L.jpg"
+        },
+        {
+          "id": "demo_10_64fed4",
+          "title": "Zero to One_64fed4",
+          "author": "Peter Thiel_64fed4",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739209-L.jpg"
+        },
+        {
+          "id": "demo_11_e36b7a",
+          "title": "Start With Why_e36b7a",
+          "author": "Simon Sinek_e36b7a",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739214-L.jpg"
+        },
+        {
+          "id": "demo_12_c27364",
+          "title": "Rework_c27364",
+          "author": "Jason Fried_c27364",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739219-L.jpg"
+        }
+      ]
+    },
+    {
+      "chartId": "chart_4",
+      "chartName": "Editor's Choice",
+      "bookList": [
+        {
+          "id": "demo_13",
+          "title": "Sapiens",
+          "author": "Yuval Noah Harari",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8571124-L.jpg"
+        },
+        {
+          "id": "demo_14",
+          "title": "Homo Deus",
+          "author": "Yuval Noah Harari",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8231990-L.jpg"
+        },
+        {
+          "id": "demo_15",
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8108696-L.jpg"
+        },
+        {
+          "id": "demo_16",
+          "title": "Thinking, Fast and Slow",
+          "author": "Daniel Kahneman",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+        }
+      ]
+    }
+  ]
+}

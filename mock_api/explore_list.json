@@ -1,0 +1,66 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": "demo_1_5710d7",
+      "author": "Brian Tracy_5710d7",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739163-L.jpg"
+    },
+    {
+      "id": "demo_2_066b49",
+      "author": "James Clear_066b49",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739168-L.jpg"
+    },
+    {
+      "id": "demo_3_133ac6",
+      "author": "Marcus Aurelius_133ac6",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739173-L.jpg"
+    },
+    {
+      "id": "demo_4_340216",
+      "author": "Stephen R. Covey_340216",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739178-L.jpg"
+    },
+    {
+      "id": "demo_5_9b75cf",
+      "author": "Eckhart Tolle_9b75cf",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739183-L.jpg"
+    },
+    {
+      "id": "demo_6_2d942e",
+      "author": "Napoleon Hill_2d942e",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739188-L.jpg"
+    },
+    {
+      "id": "demo_7_7b9eb7",
+      "author": "Cal Newport_7b9eb7",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739193-L.jpg"
+    },
+    {
+      "id": "demo_8_4f4b98",
+      "author": "Viktor E. Frankl_4f4b98",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739198-L.jpg"
+    },
+    {
+      "id": "demo_9_c040ad",
+      "author": "Dale Carnegie_c040ad",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739203-L.jpg"
+    },
+    {
+      "id": "demo_10_551079",
+      "author": "Eric Ries_551079",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739208-L.jpg"
+    },
+    {
+      "id": "demo_11_8b9821",
+      "author": "Yuval Noah Harari_8b9821",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739213-L.jpg"
+    },
+    {
+      "id": "demo_12_5db49e",
+      "author": "Peter Thiel_5db49e",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739218-L.jpg"
+    }
+  ]
+}

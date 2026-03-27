@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": "demo_01",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
+      "awardIntroduction": "2024 Timeless Literature Award A timeless story of justice and love it reveals the harsh realities of prejudice and the courage to stand for what is right and love"
+    },
+    {
+      "id": "demo_02",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10521270-L.jpg",
+      "awardIntroduction": "2025 Timeless Literature Award A timeless story of justice and love it reveals the harsh realities of prejudice and the courage to stand for what is right and love"
+    },
+    {
+      "id": "demo_03",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739182-L.jpg",
+      "awardIntroduction": "2026 Timeless Literature Award A timeless story of justice and love it reveals the harsh realities of prejudice and the courage to stand for what is right and love"
+    }
+  ]
+}

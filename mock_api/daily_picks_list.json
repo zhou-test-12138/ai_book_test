@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": "demo_1_85a1c2",
+      "title": "Eat That Frog!_85a1c2",
+      "author": "Brian Tracy_85a1c2",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739161-L.jpg",
+      "stat": {
+        "keyPoints": 6419,
+        "minutes": 5405,
+        "insights": 7124
+      },
+      "introduction": "Why some teams pull together and others don't._85a1c2"
+    },
+    {
+      "id": "demo_2_cfe973",
+      "title": "Atomic Habits_cfe973",
+      "author": "James Clear_cfe973",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739166-L.jpg",
+      "stat": {
+        "keyPoints": 6151,
+        "minutes": 5307,
+        "insights": 8292
+      },
+      "introduction": "Why some teams pull together and others don't._cfe973"
+    },
+    {
+      "id": "demo_3_6f6df2",
+      "title": "Meditations_6f6df2",
+      "author": "Marcus Aurelius_6f6df2",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739171-L.jpg",
+      "stat": {
+        "keyPoints": 6525,
+        "minutes": 5017,
+        "insights": 8148
+      },
+      "introduction": "Why some teams pull together and others don't._6f6df2"
+    },
+    {
+      "id": "demo_4_f5c45f",
+      "title": "The 7 Habits of Highly Effective People_f5c45f",
+      "author": "Stephen R. Covey_f5c45f",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739176-L.jpg",
+      "stat": {
+        "keyPoints": 8511,
+        "minutes": 5969,
+        "insights": 4964
+      },
+      "introduction": "Why some teams pull together and others don't._f5c45f"
+    },
+    {
+      "id": "demo_5_d2b2d7",
+      "title": "The Power of Now_d2b2d7",
+      "author": "Eckhart Tolle_d2b2d7",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739181-L.jpg",
+      "stat": {
+        "keyPoints": 5039,
+        "minutes": 3507,
+        "insights": 9546
+      },
+      "introduction": "Why some teams pull together and others don't._d2b2d7"
+    },
+    {
+      "id": "demo_6_9c32cd",
+      "title": "Think and Grow Rich_9c32cd",
+      "author": "Napoleon Hill_9c32cd",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739186-L.jpg",
+      "stat": {
+        "keyPoints": 3377,
+        "minutes": 1284,
+        "insights": 8399
+      },
+      "introduction": "Why some teams pull together and others don't._9c32cd"
+    },
+    {
+      "id": "demo_7_42298c",
+      "title": "Deep Work_42298c",
+      "author": "Cal Newport_42298c",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739191-L.jpg",
+      "stat": {
+        "keyPoints": 4041,
+        "minutes": 9296,
+        "insights": 7322
+      },
+      "introduction": "Why some teams pull together and others don't._42298c"
+    },
+    {
+      "id": "demo_8_be77dd",
+      "title": "Man's Search for Meaning_be77dd",
+      "author": "Viktor E. Frankl_be77dd",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739196-L.jpg",
+      "stat": {
+        "keyPoints": 2995,
+        "minutes": 5828,
+        "insights": 9094
+      },
+      "introduction": "Why some teams pull together and others don't._be77dd"
+    },
+    {
+      "id": "demo_9_cb2e43",
+      "title": "How to Win Friends and Influence People_cb2e43",
+      "author": "Dale Carnegie_cb2e43",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739201-L.jpg",
+      "stat": {
+        "keyPoints": 3262,
+        "minutes": 1382,
+        "insights": 4341
+      },
+      "introduction": "Why some teams pull together and others don't._cb2e43"
+    },
+    {
+      "id": "demo_10_affaa6",
+      "title": "The Lean Startup_affaa6",
+      "author": "Eric Ries_affaa6",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739206-L.jpg",
+      "stat": {
+        "keyPoints": 2514,
+        "minutes": 3791,
+        "insights": 2898
+      },
+      "introduction": "Why some teams pull together and others don't._affaa6"
+    },
+    {
+      "id": "demo_11_e52556",
+      "title": "Sapiens_e52556",
+      "author": "Yuval Noah Harari_e52556",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739211-L.jpg",
+      "stat": {
+        "keyPoints": 3043,
+        "minutes": 8652,
+        "insights": 5005
+      },
+      "introduction": "Why some teams pull together and others don't._e52556"
+    },
+    {
+      "id": "demo_12_8c78cf",
+      "title": "Zero to One_8c78cf",
+      "author": "Peter Thiel_8c78cf",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739216-L.jpg",
+      "stat": {
+        "keyPoints": 8694,
+        "minutes": 9731,
+        "insights": 6702
+      },
+      "introduction": "Why some teams pull together and others don't._8c78cf"
+    }
+  ]
+}
