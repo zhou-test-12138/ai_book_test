@@ -5,32 +5,38 @@
     {
       "id": "demo_111",
       "author": "Brian Tracy",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8739185-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739185-L.jpg",
+      "title": "Sample Title 1"
     },
     {
       "id": "demo_112",
       "author": "James Clear",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8739186-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739186-L.jpg",
+      "title": "Sample Title 2"
     },
     {
       "id": "demo_113",
       "author": "Marcus Aurelius",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8739187-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739187-L.jpg",
+      "title": "Sample Title 3"
     },
     {
       "id": "demo_114",
       "author": "Stephen R. Covey",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8739188-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739188-L.jpg",
+      "title": "Sample Title 4"
     },
     {
       "id": "demo_115",
       "author": "Eckhart Tolle",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8739189-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739189-L.jpg",
+      "title": "Sample Title 5"
     },
     {
       "id": "demo_116",
       "author": "Napoleon Hill",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8739190-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/8739190-L.jpg",
+      "title": "Sample Title 6"
     }
   ]
 }
