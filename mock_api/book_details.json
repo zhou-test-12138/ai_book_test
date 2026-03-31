@@ -17,7 +17,11 @@
       ],
       "chapters": [
         {
-          "id": "1", "title": "Make a name for yourself with a consistent online presence", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "1",
+          "title": "Make a name for yourself with a consistent online presence",
+          "body": "In today's digital world, building a consistent online presence is no longer optional — it's essential. Whether you're an artist, entrepreneur, or professional, showing up regularly across platforms signals reliability and builds trust with your audience. Start by choosing two or three platforms where your ideal audience spends time, and commit to a posting rhythm you can sustain. Consistency doesn't mean posting every hour; it means showing up on a schedule your audience can count on. Over time, this consistency compounds into recognition, and recognition turns into opportunity.",
+          "quote": "Success is not accidental. It is the result of consistent, focused effort applied over time.",
+          "quoteAuthor": "Brian Tracy",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
@@ -27,7 +31,11 @@
           ]
         },
         {
-          "id": "2", "title": "You don't have to be a prodigy to progress", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "2",
+          "title": "You don't have to be a prodigy to progress",
+          "body": "Many people hold back from sharing their work because they believe they aren't talented enough yet. But progress doesn't require perfection — it requires persistence. The most successful creators in any field weren't born experts; they showed up, practiced, failed, learned, and showed up again. The act of sharing your work at every stage, not just when it feels polished, is what accelerates growth. Your audience doesn't need you to be flawless; they need you to be real, consistent, and willing to improve in public.",
+          "quote": "Continuous learning is the minimum requirement for success in any field.",
+          "quoteAuthor": "Brian Tracy",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
@@ -37,7 +45,11 @@
           ]
         },
         {
-          "id": "3", "title": "Share your process, not just the final product", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "3",
+          "title": "Share your process, not just the final product",
+          "body": "We are conditioned to share only our best work — the finished painting, the launched product, the polished essay. But audiences are increasingly drawn to the messy, human side of creation. When you document your process — the struggles, the pivots, the breakthroughs — you invite people into your story. This behind-the-scenes transparency builds a deeper connection than any highlight reel ever could. Process content also positions you as an expert in motion, someone who is actively learning and growing, which is far more compelling than a static portfolio.",
+          "quote": "The secret of getting ahead is getting started.",
+          "quoteAuthor": "Mark Twain",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
@@ -47,7 +59,11 @@
           ]
         },
         {
-          "id": "4", "title": "Be consistent and build a loyal audience", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "4",
+          "title": "Be consistent and build a loyal audience",
+          "body": "Loyalty isn't bought — it's earned through consistency and genuine value. When your audience knows what to expect from you and can rely on you to deliver, they become advocates, not just followers. Building a loyal audience means understanding their needs deeply, speaking to their real challenges, and showing up for them even when engagement is low. The creator who persists through slow seasons is the one who reaps the rewards when momentum builds. Focus on serving your audience well, and loyalty will follow naturally.",
+          "quote": "Your reputation is built in drops and lost in buckets.",
+          "quoteAuthor": "Brian Tracy",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
@@ -57,7 +73,7 @@
           ]
         }
       ],
-      "stat": { "keyPoints": 12, "minutes": 16, "insights": 8 }
+      "stat": { "keyPoints": 4, "minutes": 16, "insights": 8 }
     },
     {
       "id": "demo_2",
@@ -74,7 +90,11 @@
       ],
       "chapters": [
         {
-          "id": "1", "title": "The Surprising Power of Atomic Habits", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "1",
+          "title": "The Surprising Power of Atomic Habits",
+          "body": "Habits are the compound interest of self-improvement. Just as money multiplies through compound interest, the effects of your habits multiply as you repeat them. A 1% improvement every day for a year results in being 37 times better by year's end. Yet most people overlook small changes because they don't seem to matter in the moment. The problem is our tendency to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Breakthroughs often feel sudden, but they are really the accumulated product of previous actions.",
+          "quote": "You do not rise to the level of your goals. You fall to the level of your systems.",
+          "quoteAuthor": "James Clear",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
@@ -84,7 +104,11 @@
           ]
         },
         {
-          "id": "2", "title": "How Habits Shape Your Identity", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "2",
+          "title": "How Habits Shape Your Identity",
+          "body": "The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become. Every action you take is a vote for the type of person you want to be. When you write a page each day, you are casting a vote for being a writer. When you go for a run, you are casting a vote for being an athlete. This identity-based approach to habits is fundamentally different from outcome-based thinking. Instead of asking 'How do I lose weight?', ask 'What would a healthy person do?' Let your habits reflect the person you want to become.",
+          "quote": "Every action you take is a vote for the type of person you wish to become.",
+          "quoteAuthor": "James Clear",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
@@ -94,7 +118,11 @@
           ]
         },
         {
-          "id": "3", "title": "How to Build Better Habits in 4 Simple Steps", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "3",
+          "title": "How to Build Better Habits in 4 Simple Steps",
+          "body": "All habits follow the same four-step pattern: cue, craving, response, and reward. The cue triggers your brain to initiate a behavior. The craving is the motivational force behind every habit. The response is the actual habit you perform. The reward is the end goal of every habit. To build a good habit, make the cue obvious, the craving attractive, the response easy, and the reward satisfying. To break a bad habit, invert each law: make the cue invisible, the craving unattractive, the response difficult, and the reward unsatisfying. These simple rules govern nearly all human behavior.",
+          "quote": "Habits are not a finish line to be crossed, they are a lifestyle to be lived.",
+          "quoteAuthor": "James Clear",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
@@ -104,7 +132,7 @@
           ]
         }
       ],
-      "stat": { "keyPoints": 10, "minutes": 18, "insights": 9 }
+      "stat": { "keyPoints": 3, "minutes": 18, "insights": 9 }
     },
     {
       "id": "demo_3",
@@ -121,7 +149,11 @@
       ],
       "chapters": [
         {
-          "id": "1", "title": "Book I: Debts and Lessons", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "1",
+          "title": "Book I: Debts and Lessons",
+          "body": "In the opening of his private journals, Marcus Aurelius spends time reflecting on what he has learned from the people around him — his grandfather, his father, his mother, and his teachers. Each person taught him something invaluable: patience, humility, endurance, gentleness. This practice of gratitude and acknowledgment is itself a Stoic exercise. By cataloguing the virtues he admired in others, Marcus was also clarifying the kind of man he aspired to be. He reminds himself that character is not self-made in isolation — it is shaped by every relationship and every teacher we are fortunate enough to encounter.",
+          "quote": "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant. But I have seen the beauty of good.",
+          "quoteAuthor": "Marcus Aurelius",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
@@ -131,7 +163,11 @@
           ]
         },
         {
-          "id": "2", "title": "Book II: On the River Gran", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "2",
+          "title": "Book II: On the River Gran",
+          "body": "Written during a military campaign, Book II captures the urgency of Marcus's Stoic reflections. He was surrounded by war, suffering, and mortality, yet his writings focus entirely on the inner life. He urges himself not to waste time, to act justly, and to treat each day as a complete life in itself. He grapples with the shortness of human life and concludes that what matters is not the length of one's life, but the quality of one's character within it. These are not abstract philosophical musings — they are battle-tested reminders written by a man leading armies while trying to lead himself.",
+          "quote": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+          "quoteAuthor": "Marcus Aurelius",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
@@ -141,7 +177,11 @@
           ]
         },
         {
-          "id": "3", "title": "Book III: In Carnuntum", "body": "", "quote": "", "quoteAuthor": "",
+          "id": "3",
+          "title": "Book III: In Carnuntum",
+          "body": "In Carnuntum, a Roman fortress on the Danube, Marcus continued to write. Here he deepens his meditations on the impermanence of all things. Empires rise and fall; the famous and powerful are forgotten; even Rome itself will one day be dust. Rather than finding this depressing, Marcus uses it as liberation — if nothing lasts, then our attachment to outcomes is misplaced. The only worthy pursuit is virtue: acting rightly in this moment, regardless of results. This book reminds us that Stoicism is not about emotional suppression — it is about emotional clarity, choosing reason and virtue over panic and desire.",
+          "quote": "The impediment to action advances action. What stands in the way becomes the way.",
+          "quoteAuthor": "Marcus Aurelius",
           "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
           "audioList": [
             { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
@@ -151,7 +191,7 @@
           ]
         }
       ],
-      "stat": { "keyPoints": 8, "minutes": 12, "insights": 7 }
+      "stat": { "keyPoints": 3, "minutes": 12, "insights": 7 }
     },
     {
       "id": "demo_4",
@@ -162,11 +202,50 @@
       "whatsInside": "Powerful lessons in personal change based on timeless principles of human effectiveness.",
       "learns": [ "Be proactive, not reactive", "Begin with the end in mind", "Put first things first", "Think win-win in all interactions" ],
       "chapters": [
-        { "id": "1", "title": "Be Proactive", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] },
-        { "id": "2", "title": "Begin with the End in Mind", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] },
-        { "id": "3", "title": "Think Win-Win", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] }
+        {
+          "id": "1",
+          "title": "Be Proactive",
+          "body": "Being proactive is the foundational habit of effective people. It means taking responsibility for your own life — recognizing that between stimulus and response, there is a space, and in that space lies your freedom and power to choose. Reactive people are driven by feelings, by circumstances, by conditions, by their environment. Proactive people are driven by values — carefully thought-about, selected, and internalized values. The language of reactive people tends to absolve themselves of responsibility: 'That's just how I am,' 'There's nothing I can do.' Proactive language sounds like: 'Let's look at our options,' 'I can choose a different approach.' This shift in language reflects a shift in thinking that changes everything.",
+          "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+          "quoteAuthor": "Stephen R. Covey",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Begin with the End in Mind",
+          "body": "All things are created twice: first in the mind, then in the physical world. A building is first drawn in blueprints before construction begins. This habit asks you to create your personal mission statement — the foundation for all your decisions. To begin with the end in mind means to start with a clear understanding of your destination. Many people spend their whole lives climbing the ladder of success only to discover, upon reaching the top, that the ladder has been leaning against the wrong wall. Effectiveness requires both efficiency (doing things right) and effectiveness (doing the right things), and knowing your end goal is what makes the latter possible.",
+          "quote": "Begin with the end in mind.",
+          "quoteAuthor": "Stephen R. Covey",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Think Win-Win",
+          "body": "Win-Win is a frame of mind and heart that constantly seeks mutual benefit in all human interactions. It's not your way or my way; it's a better way. Most people have been deeply scripted in the Win-Lose mentality since birth — in academics, in sports, in law. But life is mostly an interdependent reality, not an independent one. Win-Win is a belief in the 'third alternative' — not my way, not your way, but a better way. It requires character: integrity, maturity, and an abundance mentality. People with a scarcity mentality have a very difficult time sharing recognition or power. The abundance mentality flows from a deep inner sense of personal worth and security.",
+          "quote": "Win-Win is a belief in the third alternative. Not your way, not my way, but a better way.",
+          "quoteAuthor": "Stephen R. Covey",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 14, "minutes": 20, "insights": 10 }
+      "stat": { "keyPoints": 3, "minutes": 20, "insights": 10 }
     },
     {
       "id": "demo_5",
@@ -177,11 +256,50 @@
       "whatsInside": "A guide to spiritual enlightenment that emphasizes the importance of living in the present moment.",
       "learns": [ "How to free yourself from the past", "The power of conscious presence", "Overcoming the pain-body", "Finding inner peace through stillness" ],
       "chapters": [
-        { "id": "1", "title": "You Are Not Your Mind", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" } ] },
-        { "id": "2", "title": "Consciousness: The Way Out of Pain", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] },
-        { "id": "3", "title": "Moving Deeply into the Now", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] }
+        {
+          "id": "1",
+          "title": "You Are Not Your Mind",
+          "body": "The greatest source of human suffering, according to Tolle, is our identification with our own mind. We believe we are our thoughts — but we are not. The mind is a tool, and like any tool, it can work for us or against us. When we cannot stop thinking, the mind has taken on a life of its own and become a problem. The key to liberation is to observe your thoughts without judgment — to recognize that you are the awareness behind the thought, not the thought itself. This simple but profound shift in perspective is the doorway to presence, and presence is the doorway to peace.",
+          "quote": "Realize deeply that the present moment is all you ever have.",
+          "quoteAuthor": "Eckhart Tolle",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Consciousness: The Way Out of Pain",
+          "body": "Most human pain is unnecessary — it is created by the mind's resistance to what is. We create pain by dwelling in the past or projecting anxieties into the future. The Now is the only place where life actually happens, yet most of us are rarely fully in it. Tolle introduces the concept of the 'pain-body' — an accumulated field of old emotional pain that lives within us and periodically takes over our thoughts and actions. Recognizing the pain-body as something separate from who you truly are is the first step to dissolving it. Consciousness is the light that dissolves darkness. You cannot fight the pain-body; you can only observe it.",
+          "quote": "The primary cause of unhappiness is never the situation but your thoughts about it.",
+          "quoteAuthor": "Eckhart Tolle",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Moving Deeply into the Now",
+          "body": "To move deeply into the Now is to experience a radical inner transformation. It doesn't mean you stop planning or remembering — it means you do both without losing touch with the present moment as the foundation. Time becomes a tool rather than a tyrant. Tolle describes two types of time: clock time (used for practical purposes) and psychological time (mental preoccupation with past and future). Clock time is necessary; psychological time is the source of suffering. By anchoring yourself in the present, you access an inner stillness that is not dependent on external circumstances — a peace that, as Tolle says, 'passes all understanding.'",
+          "quote": "Life is now. There was never a time when your life was not now, nor will there ever be.",
+          "quoteAuthor": "Eckhart Tolle",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 9, "minutes": 14, "insights": 8 }
+      "stat": { "keyPoints": 3, "minutes": 14, "insights": 8 }
     },
     {
       "id": "demo_6",
@@ -192,11 +310,50 @@
       "whatsInside": "The classic guide to wealth and personal achievement based on interviews with over 500 successful Americans.",
       "learns": [ "The role of desire in achieving success", "How faith amplifies your power", "The mastermind principle", "Overcoming the six basic fears" ],
       "chapters": [
-        { "id": "1", "title": "Thoughts Are Things", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] },
-        { "id": "2", "title": "Desire: The Starting Point of All Achievement", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" } ] },
-        { "id": "3", "title": "Faith: Visualization of Belief", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] }
+        {
+          "id": "1",
+          "title": "Thoughts Are Things",
+          "body": "Every achievement, every fortune, every great discovery begins with a single thought. Hill opens with the foundational principle that our thoughts have the power to attract material equivalents into our lives. This is not mysticism — it is a pattern observed across hundreds of interviews with the most successful people of his era. The mind is a force that, when focused with intensity and backed by burning desire, can cut through every obstacle. Hill introduces Edwin Barnes, a man with no money or connections who made up his mind to work with Thomas Edison — and succeeded. The key was not circumstance, but concentrated mental energy directed toward a single, clear goal.",
+          "quote": "Whatever the mind can conceive and believe, the mind can achieve.",
+          "quoteAuthor": "Napoleon Hill",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Desire: The Starting Point of All Achievement",
+          "body": "Hill draws a critical distinction between wishing for something and having a burning desire for it. A mere wish is passive. A burning desire is active — it consumes your thoughts and drives every action. The first step to riches is to fix in your mind the exact amount of money you desire, decide what you intend to give in return for it, establish a definite date for its acquisition, create a definite plan for carrying out your desire, write it all out clearly, and read this statement aloud twice daily. This process isn't magic — it is a method for programming your subconscious mind and keeping your attention aligned with your goal through consistent, emotionally charged repetition.",
+          "quote": "The starting point of all achievement is desire. Keep this constantly in mind.",
+          "quoteAuthor": "Napoleon Hill",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Faith: Visualization of Belief",
+          "body": "Faith, in Hill's framework, is not a religious concept — it is a state of mind that can be induced through autosuggestion and repetition. When you repeatedly tell your subconscious mind that you will achieve a goal, and when you combine this repetition with emotion, your subconscious begins to translate it into practical action. Faith is the head chemist of the mind; it is the element that transforms the ordinary pulse of thought into its spiritual equivalent. Hill argues that every great leader, inventor, and entrepreneur has one thing in common: an unshakeable faith in their vision that persisted through ridicule, failure, and setback.",
+          "quote": "Faith is the only known antidote to failure.",
+          "quoteAuthor": "Napoleon Hill",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 13, "minutes": 19, "insights": 11 }
+      "stat": { "keyPoints": 3, "minutes": 19, "insights": 11 }
     },
     {
       "id": "demo_7",
@@ -207,11 +364,50 @@
       "whatsInside": "Rules for focused success in a distracted world. How to develop and leverage deep work to thrive.",
       "learns": [ "Why deep work is rare and valuable", "How to train your brain to focus", "Strategies for deep work scheduling", "Quitting social media to reclaim focus" ],
       "chapters": [
-        { "id": "1", "title": "Deep Work Is Valuable", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] },
-        { "id": "2", "title": "Deep Work Is Rare", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] },
-        { "id": "3", "title": "Work Deeply", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" } ] }
+        {
+          "id": "1",
+          "title": "Deep Work Is Valuable",
+          "body": "Deep work — the ability to focus without distraction on cognitively demanding tasks — is becoming increasingly rare at the same time it is becoming increasingly valuable in our economy. The most valuable skills in the new economy are the ability to master hard things quickly and the ability to produce at an elite level in both quality and speed. Both of these abilities depend on the ability to do deep work. Newport argues that as intelligent machines replace routine cognitive work, the premium on distinctly human skills — creativity, complex reasoning, strategic thinking — increases dramatically. Those who can perform deep work will be the new superstars of the knowledge economy.",
+          "quote": "Deep work is the ability to focus without distraction on a cognitively demanding task.",
+          "quoteAuthor": "Cal Newport",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Deep Work Is Rare",
+          "body": "Despite its value, deep work is becoming increasingly rare. Open-plan offices, always-on messaging culture, and the metrics of busyness all conspire against focused work. Newport identifies the 'principle of least resistance' — in the absence of clear feedback on the impact of behaviors on the bottom line, we tend toward behaviors that are easiest in the moment. Constant connectivity feels like productivity. But responding to emails and attending meetings is shallow work — cognitively easy, logistically driven, and low value. Organizations that mistake busyness for productivity inadvertently drive out the conditions needed for the deep work that actually moves the needle.",
+          "quote": "To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction.",
+          "quoteAuthor": "Cal Newport",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Work Deeply",
+          "body": "Newport offers four philosophies for integrating deep work into your life: the monastic approach (eliminating all shallow obligations), the bimodal approach (reserving certain periods entirely for deep work), the rhythmic approach (building a daily deep work habit), and the journalistic approach (fitting deep work wherever you can). He also introduces the concept of 'productive meditation' — using physically occupying time like walking or commuting to focus your attention on a single, well-defined professional problem. Training your ability to focus is like training a muscle; the more deliberately you practice concentration, the stronger your capacity for deep work becomes.",
+          "quote": "Clarity about what matters provides clarity about what does not.",
+          "quoteAuthor": "Cal Newport",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 11, "minutes": 17, "insights": 9 }
+      "stat": { "keyPoints": 3, "minutes": 17, "insights": 9 }
     },
     {
       "id": "demo_8",
@@ -222,11 +418,50 @@
       "whatsInside": "A powerful account of life in Nazi concentration camps and a lesson about finding meaning in suffering.",
       "learns": [ "Finding meaning even in the worst suffering", "Logotherapy as a path to healing", "The last of human freedoms: choosing your attitude", "Love as the highest goal" ],
       "chapters": [
-        { "id": "1", "title": "Experiences in a Concentration Camp", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] },
-        { "id": "2", "title": "Logotherapy in a Nutshell", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] },
-        { "id": "3", "title": "The Case for a Tragic Optimism", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] }
+        {
+          "id": "1",
+          "title": "Experiences in a Concentration Camp",
+          "body": "Frankl's harrowing account of life in Auschwitz and other Nazi camps is not primarily a story of atrocity — it is a study of the human spirit under extreme conditions. He observed that prisoners who retained a sense of purpose, even in the most degraded circumstances, were more likely to survive psychologically. He describes three phases of psychological reaction: the shock of arrival, the relative numbness of daily camp life, and the disorientation of liberation. Throughout, he noticed that the last of human freedoms — the freedom to choose one's attitude toward unavoidable suffering — could not be taken away. This insight became the seed of logotherapy.",
+          "quote": "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances.",
+          "quoteAuthor": "Viktor E. Frankl",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Logotherapy in a Nutshell",
+          "body": "Logotherapy — from the Greek 'logos' meaning 'meaning' — is Frankl's school of psychotherapy built on the premise that the primary human drive is not pleasure (as Freud believed) or power (as Adler argued), but the search for meaning. The 'existential vacuum,' the feeling of emptiness and meaninglessness, is the most widespread phenomenon of the 20th century and manifests as depression, aggression, and addiction. Frankl argues that meaning can be found in three ways: by creating work or doing a deed, by experiencing something or encountering someone (love), and by the attitude we take toward unavoidable suffering. Logotherapy is forward-looking; it focuses on the future and on what we can still do.",
+          "quote": "Those who have a 'why' to live, can bear with almost any 'how'.",
+          "quoteAuthor": "Viktor E. Frankl",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "The Case for a Tragic Optimism",
+          "body": "Tragic optimism is the ability to maintain optimism in the face of the tragic triad: pain, guilt, and death. It is not naive positivity — it is a courageous choice to find meaning and growth even in life's darkest chapters. Frankl challenges the American notion of happiness as a right or a direct pursuit. Happiness, he argues, cannot be pursued; it ensues from living a meaningful life. The same applies to success. If you aim at meaning, success and happiness follow as a byproduct. This final message of the book is both a challenge and an invitation: life is not primarily a quest for pleasure or power, but a quest for meaning, and that quest is available to every human being in every circumstance.",
+          "quote": "Life is never made unbearable by circumstances, but only by lack of meaning and purpose.",
+          "quoteAuthor": "Viktor E. Frankl",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 8, "minutes": 13, "insights": 7 }
+      "stat": { "keyPoints": 3, "minutes": 13, "insights": 7 }
     },
     {
       "id": "demo_9",
@@ -237,11 +472,50 @@
       "whatsInside": "Timeless advice on building meaningful relationships and becoming a more influential communicator.",
       "learns": [ "Fundamental techniques in handling people", "How to make people like you immediately", "How to win people to your way of thinking", "How to change people without giving offense" ],
       "chapters": [
-        { "id": "1", "title": "Don't Criticize, Condemn or Complain", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" } ] },
-        { "id": "2", "title": "Give Honest Appreciation", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] },
-        { "id": "3", "title": "Arouse in the Other Person an Eager Want", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] }
+        {
+          "id": "1",
+          "title": "Don't Criticize, Condemn or Complain",
+          "body": "Criticism is futile because it puts people on the defensive and usually makes them strive to justify themselves. It is also dangerous, because it wounds people's precious pride, hurts their sense of importance, and arouses their resentment. When dealing with people, remember that we are dealing not with creatures of logic, but with creatures of emotion — creatures bristling with prejudices and motivated by pride and vanity. Instead of condemning others, Carnegie urges us to try to understand them. Ask yourself why they do what they do. That's more profitable and more interesting than criticism, and it breeds sympathy, tolerance, and kindness.",
+          "quote": "Any fool can criticize, condemn and complain — and most fools do. But it takes character and self-control to be understanding and forgiving.",
+          "quoteAuthor": "Dale Carnegie",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Give Honest Appreciation",
+          "body": "The deepest principle in human nature is the craving to be appreciated. Not flattery — there is a difference. Flattery is insincere and people can sense it. Genuine, honest appreciation acknowledges a specific thing the person has done and recognizes their contribution sincerely. Carnegie recounts how Charles Schwab, one of the highest-paid executives of his era, attributed much of his success to his ability to arouse enthusiasm in people through appreciation and encouragement. The principles seem simple, but they run counter to most people's behavior — we tend to focus on what's wrong with others and take their good qualities for granted. Reversing this habit can transform your relationships.",
+          "quote": "Be hearty in your approbation and lavish in your praise, and people will cherish your words and treasure them for a lifetime.",
+          "quoteAuthor": "Dale Carnegie",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Arouse in the Other Person an Eager Want",
+          "body": "The only way to influence other people is to talk about what they want and show them how to get it. When you want someone to do something, ask yourself: 'How can I make this person want to do it?' This is not manipulation — it is empathy applied to persuasion. Carnegie uses the analogy of fishing: you don't bait the hook with what you like; you bait it with what the fish likes. The same principle applies to all human interaction. When you show someone how your proposal aligns with their desires, their ambitions, and their interests, they don't need to be convinced — they convince themselves. This is the foundation of all great salesmanship, leadership, and parenting.",
+          "quote": "The only way on earth to influence other people is to talk about what they want and show them how to get it.",
+          "quoteAuthor": "Dale Carnegie",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 12, "minutes": 18, "insights": 10 }
+      "stat": { "keyPoints": 3, "minutes": 18, "insights": 10 }
     },
     {
       "id": "demo_10",
@@ -252,11 +526,50 @@
       "whatsInside": "How today's entrepreneurs use continuous innovation to create radically successful businesses.",
       "learns": [ "The build-measure-learn feedback loop", "What is a minimum viable product", "How to pivot or persevere", "The five whys for root cause analysis" ],
       "chapters": [
-        { "id": "1", "title": "Start", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] },
-        { "id": "2", "title": "Define", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" } ] },
-        { "id": "3", "title": "Learn", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] }
+        {
+          "id": "1",
+          "title": "Start",
+          "body": "Entrepreneurship is a form of management — but a different kind of management suited to conditions of extreme uncertainty. Traditional management techniques were designed for stable, predictable environments. Startups, by contrast, operate in environments where customers, markets, and even the product itself are unknown. Ries introduces the concept of validated learning — the process of demonstrating empirically that a team has discovered valuable truths about a startup's business prospects. Every startup, whether it knows it or not, is constantly running experiments. The question is whether those experiments are designed to generate the kind of learning that can steer the business forward.",
+          "quote": "A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty.",
+          "quoteAuthor": "Eric Ries",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Define",
+          "body": "The Lean Startup methodology is built around the Build-Measure-Learn feedback loop. The goal is to minimize the total time through this loop. The Minimum Viable Product (MVP) is the version of the product that enables a full turn of the loop with the least effort. An MVP is not a finished product — it is a learning tool. Many startups fail because they spend months or years building something nobody wants, when they could have discovered that failure in weeks with an MVP. The MVP is not about being sloppy or shipping garbage — it's about getting a specific question answered as quickly as possible: does this idea have merit?",
+          "quote": "The minimum viable product is that version of a new product which allows a team to collect the maximum amount of validated learning with the least effort.",
+          "quoteAuthor": "Eric Ries",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Learn",
+          "body": "A pivot is a structured course correction designed to test a new fundamental hypothesis about the product, strategy, and engine of growth. Knowing when to pivot and when to persevere is one of the most difficult decisions an entrepreneur faces. Signs that a pivot may be needed include a sense that the product development is going well but sales aren't, a lack of energy around the vision, and feeling that pivoting would be seen as giving up. Ries reframes the pivot not as failure but as progress — it means you've learned something real and are applying that knowledge. Many of the most successful companies in history, from Instagram to YouTube, pivoted from their original concepts.",
+          "quote": "A pivot is not just a change, but a special kind of structured change designed to test a new hypothesis about the product, business model, and engine of growth.",
+          "quoteAuthor": "Eric Ries",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 10, "minutes": 16, "insights": 8 }
+      "stat": { "keyPoints": 3, "minutes": 16, "insights": 8 }
     },
     {
       "id": "demo_11",
@@ -267,11 +580,50 @@
       "whatsInside": "A brief history of humankind, exploring how Homo sapiens came to dominate planet Earth.",
       "learns": [ "The cognitive revolution that changed everything", "How agriculture transformed human society", "The unification of humankind", "The scientific revolution and its consequences" ],
       "chapters": [
-        { "id": "1", "title": "An Animal of No Significance", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] },
-        { "id": "2", "title": "The Tree of Knowledge", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] },
-        { "id": "3", "title": "A Day in the Life of Adam and Eve", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" } ] }
+        {
+          "id": "1",
+          "title": "An Animal of No Significance",
+          "body": "About 13.5 billion years ago, matter, energy, time and space came into being. About 300,000 years ago, Homo sapiens appeared in East Africa — just another medium-sized animal with no special importance. For most of human history, we were not at the top of the food chain. We were prey as much as predators. What changed everything was the Cognitive Revolution, which occurred around 70,000 years ago, when Homo sapiens began to develop the ability to think in new ways and communicate in an entirely new type of language. Harari argues that what made Homo sapiens unique was our ability to believe in things that exist purely in our imagination — myths, religions, corporations, nations — enabling large-scale social cooperation.",
+          "quote": "History is something that very few people have been doing while everyone else was plowing fields and carrying water buckets.",
+          "quoteAuthor": "Yuval Noah Harari",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "The Tree of Knowledge",
+          "body": "The Cognitive Revolution was sparked by accidental genetic mutations that rewired the Sapiens brain. Suddenly, Sapiens could transmit information about things that didn't physically exist — legends, myths, gods, and religions. This was unprecedented. Other animals communicate about objective reality: there is a lion near the river. Sapiens could say: the lion is the guardian spirit of our tribe. This gossip theory of language explains how Homo sapiens came to cooperate in groups of thousands and millions, whereas other animals are limited to groups of around 150. Shared myths — money, nations, companies, human rights — are the invisible glue of human civilization.",
+          "quote": "Large numbers of strangers can cooperate successfully by believing in common myths.",
+          "quoteAuthor": "Yuval Noah Harari",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "A Day in the Life of Adam and Eve",
+          "body": "For the vast majority of human history, Homo sapiens lived as foragers — small bands of 20 to 50 people, moving with the seasons, intimately connected to their natural environment. Harari paints a surprising picture of forager life: it was, in many ways, more cognitively demanding, physically varied, and socially rich than the agricultural life that replaced it. Ancient foragers had to know a vast amount about their environment — edible plants, animal behavior, seasonal patterns — to survive. They were, in a sense, the most knowledgeable people who ever lived relative to the demands of their world. The Agricultural Revolution, which followed, may have been a step forward for civilization but arguably a step backward for individual quality of life.",
+          "quote": "We did not domesticate wheat. Wheat domesticated us.",
+          "quoteAuthor": "Yuval Noah Harari",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 15, "minutes": 22, "insights": 12 }
+      "stat": { "keyPoints": 3, "minutes": 22, "insights": 12 }
     },
     {
       "id": "demo_12",
@@ -282,11 +634,50 @@
       "whatsInside": "Notes on startups, or how to build the future. Every moment in business happens only once.",
       "learns": [ "Why competition destroys profits", "The power of monopoly in startups", "How to build a company with a strong foundation", "The importance of sales alongside product" ],
       "chapters": [
-        { "id": "1", "title": "The Challenge of the Future", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" } ] },
-        { "id": "2", "title": "Party Like It's 1999", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" } ] },
-        { "id": "3", "title": "All Happy Companies Are Different", "body": "", "quote": "", "quoteAuthor": "", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "audioList": [ { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }, { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" }, { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" } ] }
+        {
+          "id": "1",
+          "title": "The Challenge of the Future",
+          "body": "Progress can take one of two forms: horizontal progress (copying things that work — going from 1 to n) and vertical progress (doing new things — going from 0 to 1). Globalization is horizontal progress; technology is vertical progress. Going from 0 to 1 is the hardest and most valuable form of progress, and it is what great startups do. Thiel argues that we are in a technological stagnation compared to the progress of the 20th century, and that the world urgently needs startups that create genuinely new things. The question every founder must ask: what important truth do very few people agree with you on? The answer to that question points toward the next 0-to-1 opportunity.",
+          "quote": "What important truth do very few people agree with you on?",
+          "quoteAuthor": "Peter Thiel",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Party Like It's 1999",
+          "body": "The dot-com crash of 2000 left a generation of entrepreneurs traumatized and generated four lessons that, Thiel argues, became dogma: make incremental advances, stay lean and flexible, improve on the competition, and focus on product not sales. These lessons were reasonable reactions to the mania of the late 1990s, but Thiel believes they have calcified into the opposite of the truth. Bold claims lead to big markets. A bad plan is better than no plan. Competitive markets destroy profits. Sales matter as much as product. The entrepreneurs who succeeded after the crash were those who learned the right lessons — and those who understood that the pendulum had swung too far toward conservatism.",
+          "quote": "Brilliant thinking is rare, but courage is in even shorter supply than genius.",
+          "quoteAuthor": "Peter Thiel",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "All Happy Companies Are Different",
+          "body": "All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition. Monopoly is the condition of every successful business. This seems counterintuitive — we are taught that competition is healthy and monopoly is a problem. But Thiel argues the opposite: competition means fighting over the same things, which means razor-thin margins and no ability to invest in the future. Monopoly means you've created something so valuable that no one else has figured out how to match you — which means profits, and with profits, the freedom to think about something other than surviving to next quarter. Google, Apple, and Amazon are all monopolies. That's why they're worth so much.",
+          "quote": "Competition is for losers. If you want to create and capture lasting value, look to build a monopoly.",
+          "quoteAuthor": "Peter Thiel",
+          "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "audioList": [
+            { "voiceId": "andrew", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+            { "voiceId": "ava", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+            { "voiceId": "jane", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+            { "voiceId": "christopher", "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+          ]
+        }
       ],
-      "stat": { "keyPoints": 11, "minutes": 15, "insights": 9 }
+      "stat": { "keyPoints": 3, "minutes": 15, "insights": 9 }
     }
   ]
 }
