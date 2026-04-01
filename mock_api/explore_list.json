@@ -3,74 +3,74 @@
   "message": "success",
   "data": [
     {
-      "id": "demo_1_5710d7",
-      "author": "Brian Tracy_5710d7",
+      "id": "book_1",
+      "author": "Brian Tracy",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739163-L.jpg",
       "title": "Sample Title 1"
     },
     {
-      "id": "demo_2_066b49",
-      "author": "James Clear_066b49",
+      "id": "book_2",
+      "author": "James Clear",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739168-L.jpg",
       "title": "Sample Title 2"
     },
     {
-      "id": "demo_3_133ac6",
-      "author": "Marcus Aurelius_133ac6",
+      "id": "book_3",
+      "author": "Marcus Aurelius",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739173-L.jpg",
       "title": "Sample Title 3"
     },
     {
-      "id": "demo_4_340216",
-      "author": "Stephen R. Covey_340216",
+      "id": "book_4",
+      "author": "Stephen R. Covey",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739178-L.jpg",
       "title": "Sample Title 4"
     },
     {
-      "id": "demo_5_9b75cf",
-      "author": "Eckhart Tolle_9b75cf",
+      "id": "book_5",
+      "author": "Eckhart Tolle",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739183-L.jpg",
       "title": "Sample Title 5"
     },
     {
-      "id": "demo_6_2d942e",
-      "author": "Napoleon Hill_2d942e",
+      "id": "book_6",
+      "author": "Napoleon Hill",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739188-L.jpg",
       "title": "Sample Title 6"
     },
     {
-      "id": "demo_7_7b9eb7",
-      "author": "Cal Newport_7b9eb7",
+      "id": "book_7",
+      "author": "Cal Newport",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739193-L.jpg",
       "title": "Sample Title 7"
     },
     {
-      "id": "demo_8_4f4b98",
-      "author": "Viktor E. Frankl_4f4b98",
+      "id": "book_8",
+      "author": "Viktor E. Frankl",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739198-L.jpg",
       "title": "Sample Title 8"
     },
     {
-      "id": "demo_9_c040ad",
-      "author": "Dale Carnegie_c040ad",
+      "id": "book_9",
+      "author": "Dale Carnegie",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739203-L.jpg",
       "title": "Sample Title 9"
     },
     {
-      "id": "demo_10_551079",
-      "author": "Eric Ries_551079",
+      "id": "book_10",
+      "author": "Eric Ries",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739208-L.jpg",
       "title": "Sample Title 10"
     },
     {
-      "id": "demo_11_8b9821",
-      "author": "Yuval Noah Harari_8b9821",
+      "id": "book_11",
+      "author": "Yuval Noah Harari",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739213-L.jpg",
       "title": "Sample Title 11"
     },
     {
-      "id": "demo_12_5db49e",
-      "author": "Peter Thiel_5db49e",
+      "id": "book_12",
+      "author": "Peter Thiel",
       "coverUrl": "https://covers.openlibrary.org/b/id/8739218-L.jpg",
       "title": "Sample Title 12"
     }
